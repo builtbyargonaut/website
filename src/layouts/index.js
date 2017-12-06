@@ -7,13 +7,7 @@ import './index.css'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet
-      title="Argonaut"
-      meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
-      ]}
-    />
+    <Helmet title="Argonaut" />
     {children()}
   </div>
 )
