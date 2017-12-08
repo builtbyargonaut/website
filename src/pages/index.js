@@ -10,11 +10,10 @@ const IndexPage = () => (
     <p>
       I'm passionate about building fast, robust, and secure web applications
       that deliver extraordinary user experiences. I love working on interesting
-      projects with good people.
+      projects with good people—get in touch.
     </p>
     <p>
-      A new website is in the works. In the meantime, you can find me on{" "}
-      <a href="https://github.com/thomascchen">GitHub</a>,{" "}
+      You can find me on <a href="https://github.com/thomascchen">GitHub</a>,{" "}
       <a href="https://www.twitter.com/tchen">Twitter</a>, and{" "}
       <a href="https://www.linkedin.com/in/chenthomasc/">LinkedIn</a>.
     </p>
