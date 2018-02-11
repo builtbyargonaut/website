@@ -8,11 +8,9 @@ const IndexPage = () => (
       <strong>Tom Chen</strong>.
     </p>
     <p>
-      I'm passionate about building fast, robust, and secure web applications
-      that deliver extraordinary user experiences. I love working on interesting
-      projects with good people—<a href="mailto:tom@builtbyargonaut.com">
-        get in touch
-      </a>.
+      I build fast, robust, and secure web applications that deliver
+      extraordinary user experiences. I love working on interesting projects
+      with good people—<a href="mailto:tom@builtbyargonaut.com">get in touch</a>.
     </p>
     <p>
       You can also find me on{" "}
