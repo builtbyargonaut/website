@@ -10,7 +10,7 @@ const IndexPage = () => (
     <p>
       I help organizations create joyful digital experiences through expert
       software engineering. I love working on interesting projects with good
-      people—<a href="mailto:tom@builtbyargonaut.com">Get in touch</a>.
+      people—<a href="mailto:tom@builtbyargonaut.com">get in touch</a>.
     </p>
     <p>
       You can also find me on{" "}
