@@ -7,7 +7,7 @@ import "./index.css";
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Argonaut — Joyful Digital Experiences. Expert Web Development." />
+    <Helmet title="Argonaut | Joyful Digital Experiences. Expert Web Development." />
     {children()}
   </div>
 );
